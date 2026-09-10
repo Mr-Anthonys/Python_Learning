@@ -47,7 +47,15 @@ Este repositório possui **finalidade educacional** e representa meu processo de
 **Curso em Vídeo — Python 3**
 **Professor:** Gustavo Guanabara
 
-🌐 [Curso em Vídeo](https://www.youtube.com/@cursoemvideo)
+<html>
+  <body>
+    🌐 <address><strong>Curso em Vídeo</strong></address>
+    <a href="https://www.youtube.com/@cursoemvideo" target="_blank">
+      Acessar o Curso em Vídeo
+    </a>
+    <br>
+  </body>
+</html>
 
 ### Outros estudos
 
