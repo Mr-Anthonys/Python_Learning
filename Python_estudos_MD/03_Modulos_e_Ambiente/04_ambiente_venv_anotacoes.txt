@@ -1,0 +1,21 @@
+Como Criar um Ambiente Virtual e Gerar um Executável Leve no VS Code
+1. Por que usar um ambiente virtual?
+Ao usar o ambiente global do Python instalado no seu computador, ferramentas como o PyInstaller podem incluir bibliotecas instaladas no sistema que o seu código não utiliza. O ambiente virtual permite que você instale apenas o que é estritamente necessário para aquele projeto específico, mantendo o executável final bem mais leve.
+
+2. Passo a Passo
+Passo A: Criar o Ambiente Virtual
+Abra a pasta do seu projeto no VS Code, abra o terminal integrado e digite o comando: python -m venv .venv. Isso criará uma pasta chamada .venv no diretório do seu projeto.
+
+Passo B: Ativar o Ambiente Virtual
+No Windows (PowerShell), ative o ambiente executando: .venv\Scripts\Activate.ps1.
+(Nota: Se aparecer um erro de permissão, execute primeiro no terminal: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process).
+Você saberá que deu certo quando a indicação (.venv) aparecer no início da linha do terminal.
+
+Passo C: Instalar apenas as dependências necessárias
+Com o ambiente ativo, instale apenas o PyInstaller e as bibliotecas que o seu código realmente utiliza usando o comando pip install pyinstaller e as demais dependências do seu projeto.
+
+Passo D: Gerar o Executável
+Ainda com o ambiente ativado, gere o arquivo executável executando o comando: pyinstaller --onefile seu_arquivo.py. O argumento --onefile serve para criar um único arquivo executável centralizado.
+
+3. Onde encontrar o arquivo pronto?
+Após o término do processo do PyInstaller, o seu arquivo .exe final estará localizado dentro de uma nova pasta chamada dist que será criada automaticamente na raiz do seu projeto.

@@ -1,0 +1,33 @@
+CATEGORIA | DESCRICAO / ACAO | EMOJI | NOME NO RICH
+Status / Alertas | Sucesso / Concluido | ✅ | :white_check_mark:
+Status / Alertas | Erro / Falha | ❌ | :x:
+Status / Alertas | Alerta / Atencao | ⚠️ | :warning:
+Status / Alertas | Informacao / Dica | ℹ️ | :information_source:
+Status / Alertas | Perigo / Proibido | 🛑 | :stop_sign:
+Status / Alertas | Carregando / Processando | ⏳ | :hourglass:
+Status / Alertas | Pergunta / Duvida | ❓ | :question:
+Cadastros / Usuarios | Usuario / Perfil | 👤 | :bust_in_silhouette:
+Cadastros / Usuarios | Grupo / Clientes | 👥 | :busts_in_silhouette:
+Cadastros / Usuarios | Adicionar / Novo | ➕ | :heavy_plus_sign:
+Cadastros / Usuarios | Remover / Excluir | ➖ | :heavy_minus_sign:
+Acoes / Ferramentas | Configuracoes / Sistema | ⚙️ | :gear:
+Acoes / Ferramentas | Salvar / Gravar | 💾 | :floppy_disk:
+Acoes / Ferramentas | Deletar / Lixeira | 🗑️ | :wastebasket:
+Acoes / Ferramentas | Pesquisa / Buscar | 🔍 | :mag:
+Acoes / Ferramentas | Edicao / Alterar | ✏️ | :pencil2:
+Acoes / Ferramentas | Fechar / Sair | 🚪 | :door:
+Negocios / Financas | Dinheiro / Pagamento | 💰 | :moneybag:
+Negocios / Financas | Grafico / Relatorio | 📊 | :bar_chart:
+Negocios / Financas | Calendario / Agendamento | 📅 | :calendar:
+Negocios / Financas | Carrinho de compras | 🛒 | :shopping_cart:
+Comunicacao | E-mail / Mensagem | ✉️ | :email:
+Comunicacao | Telefone / Contato | 📞 | :telephone:
+Comunicacao | Bloqueio / Segurança | 🔒 | :lock:
+
+
+
+--------------------------------------------------------------------
+BIBLITECA DE EMOJIS DA RICH
+
+
+
