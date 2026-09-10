@@ -18,3 +18,7 @@ Esta pasta reúne os exercícios de Python e POO com nomes mais descritivos para
 Os nomes foram escolhidos pelo **conceito principal praticado** em cada exercício. Exercícios que possuem vários arquivos dependentes continuam juntos para evitar quebrar os imports.
 
 O código e a lógica dos exercícios foram preservados; a mudança principal nesta versão é a organização e a nomenclatura.
+
+
+Fontes:
+Curso em Vídeo - https://www.youtube.com/@cursoemvideo
